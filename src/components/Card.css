@@ -1,0 +1,19 @@
+.card
+{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    margin-left: 50px;
+    border: 1px solid black;
+}
+.card h1
+{
+    text-align: center;
+    margin-top: 50px;
+}
+.card button
+{
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: green;
+}
